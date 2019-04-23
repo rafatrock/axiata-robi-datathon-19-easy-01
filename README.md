@@ -10,3 +10,10 @@ $ tar xf spark-2.3.3-bin-hadoop2.7.tgz
 $ pip install -q findspark 
 $ pip install -q csvkit
 ```
+Then the next task is to connect the gigantic data sources from cloud repository. For testing purposes we have taken the repository from Mega.
+```Python
+import os
+os.system('git clone git@jeroenmeulenaar/python3-mega.git')
+os.chdir('python3-mega')
+os.system('pip install -r requirements.txt')
+```

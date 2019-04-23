@@ -1,13 +1,17 @@
 #!/usr/bin/env python
-
-__author__ = "Rubaiyat Islam Rafat"
-__copyright__ = "Copyright 2019, Eagle Eye Lab"
-__credits__ = ["Rubaiyat Islam Rafat"]
-__license__ = "MIT"
-__version__ = "1.0.1"
-__maintainer__ = "Rubaiyat Islam Rafat"
-__email__ = "rob@spot.colorado.edu"
-__status__ = "Production"
+# The MIT License
+#
+# Copyright (c) 2019 Eagle Eye Lab. All Rights Reserved.
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in
+# all copies or substantial portions of the Software.
 
 import os
 os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-8-openjdk-amd64"

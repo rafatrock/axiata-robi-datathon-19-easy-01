@@ -13,6 +13,10 @@ To run the desired operations you need to install all the dependencies. Since th
 ```
 https://github.com/rafatrock/bigdata-prepare-python
 ```
+## Deployment
+
+You can either upload the `.py` file or `.ipynb` file in the cloud environment and run the script to get the desired outcome.
+
 ## Execution
 
 To plan and execute the desired operations and Python codes I utilised Jupyter Notebook to make this journey interactive. Please follow this [Notebook](https://github.com/rafatrock/axiata-robi-datathon-19-easy-01/blob/master/robi_datathon_19_easy_01.ipynb) file to see how the operations been performed and their outputs.
@@ -35,3 +39,19 @@ The output is a table with two column to display the desired outcomes.
 |d08f4b304529a54d43b2dc5afba01811|763.6768256830246|
 |ef5dd3752d155c2bae352f7ed72f968d|744.4222285995457|
 +--------------------------------+-----------------+
+```
+## Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/rafatrock/bigdata-prepare-python/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+**Rubaiyat Islam Rafat** - *Initial work* - [rafatrock](https://github.com/rafatrock)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

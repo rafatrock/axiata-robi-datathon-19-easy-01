@@ -2,18 +2,8 @@
 This is the solution code from the 'Robi Axiata Datathon 2019' problem set of no. 01 from easy category
 
 ## Prerequisites
-To run the desired operations we need to install all the dependencies. The following commands will install Apache Spark 2.3.3, Java 8, Findspark and most importantly CSVKit library that makes it easy for Python to work on the given Big Data.
-```Shell
-$ sudo apt-get install openjdk-8-jdk-headless -qq > /dev/null 
-$ wget -q http://apache.osuosl.org/spark/spark-2.3.3/spark-2.3.3-bin-hadoop2.7.tgz 
-$ tar xf spark-2.3.3-bin-hadoop2.7.tgz 
-$ pip install -q findspark 
-$ pip install -q csvkit
+
+To run the desired operations we need to install all the dependencies. Since this is a competion where we need to deal with gigagntic amount of data, the best approach is to prepare ourselved first to handle that data and then start implementing the code. [In this tutorial](https://github.com/rafatrock/bigdata-prepare-python) I already discussed different strategies on how to deal with Big Data. Please follow the steps so that we can ready to conduct our operations.
 ```
-Then the next task is to connect the gigantic data sources from cloud repository. For testing purposes we have taken the repository from Mega.
-```Python
-import os
-os.system('git clone git@jeroenmeulenaar/python3-mega.git')
-os.chdir('python3-mega')
-os.system('pip install -r requirements.txt')
+https://github.com/rafatrock/bigdata-prepare-python
 ```

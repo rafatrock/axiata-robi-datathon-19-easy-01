@@ -1,4 +1,6 @@
 # Robi Axiata Datathon 2019 Problem (Easy-01)
+[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/rafatrock/axiata-robi-datathon-19-easy-01/blob/master/LICENSE)
+
 This is the solution code from the 'Robi Axiata Datathon 2019' problem set of from `EASY` category `No. 01` 
 
 ## Brainstorming

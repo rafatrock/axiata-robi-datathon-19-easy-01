@@ -42,7 +42,7 @@ The output is a table with two column to display the desired outcomes.
 ```
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/rafatrock/bigdata-prepare-python/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 

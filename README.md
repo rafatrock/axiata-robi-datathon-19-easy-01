@@ -46,7 +46,7 @@ Please read [CONTRIBUTING.md](https://github.com/rafatrock/bigdata-prepare-pytho
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/rafatrock/axiata-robi-datathon-19-easy-01/releases/tag). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/rafatrock/axiata-robi-datathon-19-easy-01/tags). 
 
 ## Authors
 
